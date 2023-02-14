@@ -26,7 +26,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://GenDev-1001.github.io/react-quiz/",
+  "homepage": "https://GenDev-1001.github.io/react-quiz/my-app",
   "browserslist": {
     "production": [
       ">0.2%",
